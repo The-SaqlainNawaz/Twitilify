@@ -13,7 +13,7 @@ const MyApp: AppType<{ session: Session | null }> = ({
   return (
     <SessionProvider session={session}>
       <Head>
-        <title>Twitter Clone</title>
+        <title>Twitlify</title>
         <meta name="description" content="This is the Twitter Clone build with T3 Stack" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
