@@ -3,4 +3,5 @@
 ### ScreenShots
 
 ![twitifly1](https://github.com/The-SaqlainNawaz/Twitilify/assets/81869501/79ef1949-b199-4cb8-96b9-4251ad2a625f)
-![Uploading twitilify2.PNG…]()
+
+![twitilify2](https://github.com/The-SaqlainNawaz/Twitilify/assets/81869501/f5499317-081e-454b-903d-b8ddbf5b0b02)
