@@ -96,6 +96,8 @@ function TweetCard({
         }
       }
       trcpUtils.tweet.infiniteFeed.setInfiniteData({}, updateData)
+      trcpUtils.tweet.infiniteFeed.setInfiniteData({ onlyFollowing: true }, updateData)
+      trcpUtils.tweet.infiniteProfileFeed.setInfiniteData({ userId: user.id }, updateData)
     },
   })
 
