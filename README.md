@@ -9,3 +9,8 @@
 ### How to Run
 
 - Clone the Repo
+- Set .env
+- npm intsall
+- npm run dev
+
+**Do start the Repo**
